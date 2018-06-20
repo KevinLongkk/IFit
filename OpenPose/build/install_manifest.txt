@@ -1,0 +1,3 @@
+/usr/local/lib/PyOpenPose.so
+/usr/local/cmake/PyOpenPose.cmake
+/usr/local/cmake/PyOpenPose-release.cmake
