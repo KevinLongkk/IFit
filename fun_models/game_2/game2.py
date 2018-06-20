@@ -108,7 +108,6 @@ class GAME(object):
             FRAME = self.draw_person(FRAME, os.path.join(self.pit_path, motion), self.GIF_INDEX, number, x, y)
             op_cfg.GAME_1_FRAME = FRAME
             self.GIF_INDEX += 1
-            a = 0
 
 
     def draw_background(self, pit_bgs, index, number):
